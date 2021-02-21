@@ -1,2 +1,2 @@
-# DS_TFM_KSCHOOL
+# DS_KSCHOOL
 TFM of Data Science Master at KSCHOOL
